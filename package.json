@@ -18,5 +18,6 @@
   "homepage": "https://github.com/mookid8000/noodle",
   "dependencies": {
     "express": "^4.0.0"
-  }
+  },
+  "engine": "node 0.10.21"
 }
