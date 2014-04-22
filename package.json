@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "node": "0.10.21"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +21,5 @@
   "homepage": "https://github.com/mookid8000/noodle",
   "dependencies": {
     "express": "^4.0.0"
-  },
-  "engines": {
-    "node": "0.10.21"
   }
 }
